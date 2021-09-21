@@ -1,2 +1,2 @@
 # Python-pinus
-#The data include pinus nut recognition three data and the figure used in the article
+#The images used in attachments and articles can be viewed under the data directory
